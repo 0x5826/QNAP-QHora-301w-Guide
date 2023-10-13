@@ -6,6 +6,7 @@
 
 #### [QNAP QHora-301W 产品介绍](./301w_Specs.md)  
 #### [QNAP QHora-301W OpenWRT官网介绍](https://openwrt.org/inbox/toh/qnap/301w) 
+#### [QNAP QHora-301W 第三方带Web操作&支持原厂双分区Uboot](./uboot.md)  
 
 ### 一. 开启SSH服务
 
