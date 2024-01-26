@@ -48,7 +48,8 @@ ssh命令就是 `ssh admin@192.168.100.1 -p 22200`（ 如果端口没开重复�
 
 ---
 
-### 五. 使用 Winscp 上传QSDK的 kernel.bin 和 rootfs.bin 到 /tmp （kernel文件和rootfs文件可以从sysupgrade格式的固件解压获得）
+### 五. 使用 Winscp 上传QSDK的 kernel.bin 和 rootfs.bin 到 /tmp 
+kernel文件和rootfs文件可以从sysupgrade格式的固件解压获得
 
 ---
 
